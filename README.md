@@ -14,4 +14,6 @@ Execute the shell file:
 $ ./setupPS3Eye.sh
 
 
-to install the driver
+to install the driver.
+
+Note:  The camera will show up as the second video device, the  Jetson onboard camera is the first.
