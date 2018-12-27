@@ -1,7 +1,7 @@
 # installPlayStationEyeTX1
 Install pre-compiled driver for PlayStation 3 Eye camera on NVIDIA Jetson TX1.
 
-This repository contains the compiled driver (gspca_ov534.ko) for the PlayStation 3 Eye camera compiled for the NVIDIA Jetson TKX1 Development kit under Linux for Tegra (LT4) 24.2.
+This repository contains the compiled driver (gspca_ov534.ko) for the PlayStation 3 Eye camera compiled for the NVIDIA Jetson TX1 Development kit under Linux for Tegra (LT4) 24.2.
 
 This is has been compiled against the stock kernel: 3.10.96-tegra.
 
